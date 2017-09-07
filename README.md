@@ -28,7 +28,8 @@
 
 ## Approach for solving the problem
 
-	- Each Nanobots will be fitted with a measuring device for calculating the amount of protien and adhsesion factor of a cell in their respective location
+	- Each Nanobots will be fitted with a measuring device for calculating
+	 the amount of protien and adhsesion factor of a cell in their respective location
 	- The chance factor of the cells being cancerous will be generated
 	- The postion of the nanobot measuring the highest abnormality 
 	value will be considered as the global best
@@ -45,8 +46,8 @@
 
 ![picture](https://github.com/Niravra/cancer-tracking/blob/master/Assets/InitialNanobotPos.png)
 
-### The Position of the Nanobots after finding the most cancerous location
+### Stable Position of the Nanobots converging in the cancerous location
 
-!![Picture](https://github.com/Niravra/cancer-tracking/blob/master/Assets/FinalNanobotPos.png)
- 
+![Picture](https://github.com/Niravra/cancer-tracking/blob/master/Assets/FinalNanobotPos.png)
+
 
